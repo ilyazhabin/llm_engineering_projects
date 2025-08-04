@@ -1,2 +1,3 @@
 # llm_engineering_projects
-Various projects related to LLM engineering
+toy_rag_example - Пример использования RAG для анализа финансовой отчетности ПАО Газпром за 2024 год (на английском языке) с помощью Claude AI
+
